@@ -1,0 +1,8 @@
+DSLR Shutter fast 006.wav — ristooooo1
+https://freesound.org/people/ristooooo1/sounds/539136/
+License: CC0 1.0 Universal (public domain dedication)
+https://creativecommons.org/publicdomain/zero/1.0/
+PCM copy distributed by Remotion: https://remotion.media/shutter-modern.wav
+Reference: https://www.remotion.dev/docs/sfx/shutter-modern
+Accessed 2026-10-28. Original recording by ristooooo1; no Remotion software included.
+Replaces the synthesized sound used in 0.8.0. Mono, 44.1kHz, 16-bit PCM.

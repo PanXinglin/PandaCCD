@@ -1,0 +1,22 @@
+Everyday moments, with a little CCD character.
+
+PandaCCD brings camera-inspired color, fine grain and retro date stamps to your phone. Choose a clear, warm, cool or vivid look and preview it before you shoot.
+
+Shoot and keep going
+Switch looks, adjust zoom and choose your frame. Photos save by default so you can keep shooting. Prefer to edit immediately? Change the capture behavior in Settings.
+
+Keep a moment moving
+Enable Live to retain the moments around the shutter. Motion is processed locally with your selected look. Add ambient sound when you enable Live sound and grant microphone access.
+
+Beauty you can adjust
+Control smoothing, tone evening, brightening and lower-jaw shaping separately. Group photos can apply beauty to multiple detected faces. Face size, pose and occlusion affect detection; incomplete jaw geometry is not forcibly reshaped.
+
+Edit when you feel like it
+Open a photo in the in-app album to refine its look, grain, tint, vignette, brightness, crop, rotation and watermark. Save your settings or load a compatible HALD LUT.
+
+Made for your device
+Capture, editing and face detection run on the device. No account is required. Browse your photos, edit them, select multiple items, or use the system share sheet.
+
+Availability of lenses, zoom levels, flash and Live depends on device capabilities and permissions. Live motion needs local post-processing. To share a complete Apple Live Photo, use a supported method in the system Photos app; other destinations may retain only the still image. Camera-inspired style names do not imply brand affiliation or exact reproduction.
+
+Support: pan_xinglin@126.com

@@ -1,0 +1,173 @@
+{
+  "brand": "PandaCCD",
+  "operator": "潘星霖",
+  "publicEmail": "pan_xinglin@126.com",
+  "captureBuild": "0.14.8+47",
+  "releaseBuild": "0.14.9+48",
+  "captureNote": "Final build updates preset export label; depicted pages match the renamed capture build.",
+  "nativeIOSBuild": "unsigned release lib/main.dart succeeded",
+  "photos": "AI-generated demo inputs; real Flutter UI and GLSL. Not physical-device camera samples.",
+  "checks": [
+    "9 relevant widget tests passed",
+    "Flutter analyze clean",
+    "12 source screens rendered on iOS simulator",
+    "10 RGB marketing screenshots validated",
+    "Metadata field limits passed"
+  ],
+  "images": [
+    {
+      "path": "screenshots/ipad/01-camera.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGB",
+      "sha256": "3dcf92a77e8be3ffb98a51f6cbcdd4fcb8e7b3b590d14118119770535018b6e9"
+    },
+    {
+      "path": "screenshots/ipad/02-styles.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGB",
+      "sha256": "9028f684df3df0abd090236489a2cf64354c3c649caca82fa2067ffa02b39358"
+    },
+    {
+      "path": "screenshots/ipad/03-beauty.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGB",
+      "sha256": "99d1c75ce5b852ee75f3bceeb4d473113098214a22505230cae25a87ea3cb08b"
+    },
+    {
+      "path": "screenshots/ipad/04-editor.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGB",
+      "sha256": "d8338ab75394863b06c3b55174fbeed9cc0216f058000023594f78b5828606be"
+    },
+    {
+      "path": "screenshots/ipad/05-album.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGB",
+      "sha256": "6832d1a505d40b36b51ce0eb6d294dc2d800021e45d4ffeff8e00888cedff82b"
+    },
+    {
+      "path": "screenshots/phone/01-camera.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGB",
+      "sha256": "5d85c12c7b78da10b2b0a49a0491bb6919b659d193a623819650334f642e3b17"
+    },
+    {
+      "path": "screenshots/phone/02-styles.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGB",
+      "sha256": "cd12cf4a858f934e18443bcebf4768a9b8e5ad0fa1e4108407a567313d2eeed9"
+    },
+    {
+      "path": "screenshots/phone/03-beauty.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGB",
+      "sha256": "9b72776e89088f47a18e8c42f6188621cddce9c4d4e1e817c176f71324cd20b7"
+    },
+    {
+      "path": "screenshots/phone/04-editor.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGB",
+      "sha256": "a03bae59cc4c06205d5263318876d2dd61bf11b0633872d56d36b78c8bf6ca06"
+    },
+    {
+      "path": "screenshots/phone/05-album.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGB",
+      "sha256": "638e84628c7c8dcb5a4a58d40246a3215dde67c2d23634293095f4767e3653a3"
+    },
+    {
+      "path": "screenshots/raw/ipad-01-camera.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGBA",
+      "sha256": "b7d594f242dcd14a5fc1d28661a22bc96525f9521857bf78c4589332d6c7ce9f"
+    },
+    {
+      "path": "screenshots/raw/ipad-02-styles.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGBA",
+      "sha256": "d1fed7636ce538c0da13fc93f004025b37da7c47bb04cf2880d7d9bce984b65c"
+    },
+    {
+      "path": "screenshots/raw/ipad-03-beauty.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGBA",
+      "sha256": "15935c6f33e3a21ac07ccb82273a544fb3fa7dff87d2fd4dc41f7bc72c0d1c7b"
+    },
+    {
+      "path": "screenshots/raw/ipad-04-editor.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGBA",
+      "sha256": "265e5b283b9af208d8f267f7e4055a01f455e9bd24ac4d439a9f168348db96c7"
+    },
+    {
+      "path": "screenshots/raw/ipad-05-album.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGBA",
+      "sha256": "306f16005f2b873a9dd141e124028412fc9f21e8d253c3854cad318f8b054b93"
+    },
+    {
+      "path": "screenshots/raw/ipad-06-settings.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGBA",
+      "sha256": "306c8c2d8238ae24f9b36e22964c2ba068c8f05f4db04c02263ad33e9d5817e4"
+    },
+    {
+      "path": "screenshots/raw/phone-01-camera.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGBA",
+      "sha256": "aca9a3717811b603fbdef7c2f3f5c0aba3ad380359cf00cd855064b39a541bae"
+    },
+    {
+      "path": "screenshots/raw/phone-02-styles.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGBA",
+      "sha256": "569410075cb8d78f5acfa9d1d9e7525e74380cddccb4ad9954776ff9aa8fe0c4"
+    },
+    {
+      "path": "screenshots/raw/phone-03-beauty.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGBA",
+      "sha256": "4323d8504178cbd929ad278dabe69f507940098001455d137ac50b717fcd7575"
+    },
+    {
+      "path": "screenshots/raw/phone-04-editor.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGBA",
+      "sha256": "96767acc6c0924eb5589212c1f2ab3c41304deb031854cdc429767b0890aa8a0"
+    },
+    {
+      "path": "screenshots/raw/phone-05-album.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGBA",
+      "sha256": "71bbadb7cdaa660c7171be9c735013b81855c9fc71bcedf0f71f3b1f01cf44be"
+    },
+    {
+      "path": "screenshots/raw/phone-06-settings.png",
+      "width": 1290,
+      "height": 2796,
+      "mode": "RGBA",
+      "sha256": "8f413ece2c868db615eb3e129f54bc19edd7f965901a1372add64cc21bd46b5e"
+    }
+  ]
+}

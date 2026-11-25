@@ -1,0 +1,11 @@
+{
+  "name": "PandaCCD",
+  "subtitle": "Retro photos, live moments",
+  "promotionalText": "Give everyday moments a retro look. Preview camera-inspired color, capture photos and Live moments, and adjust beauty, grain, framing and date stamps on your device.",
+  "keywords": "retro,camera,CCD,photo,filter,grain,live,beauty,portrait,date stamp,vintage,Y2K",
+  "description": "Everyday moments, with a little CCD character.\n\nPandaCCD brings camera-inspired color, fine grain and retro date stamps to your phone. Choose a clear, warm, cool or vivid look and preview it before you shoot.\n\nShoot and keep going\nSwitch looks, adjust zoom and choose your frame. Photos save by default so you can keep shooting. Prefer to edit immediately? Change the capture behavior in Settings.\n\nKeep a moment moving\nEnable Live to retain the moments around the shutter. Motion is processed locally with your selected look. Add ambient sound when you enable Live sound and grant microphone access.\n\nBeauty you can adjust\nControl smoothing, tone evening, brightening and lower-jaw shaping separately. Group photos can apply beauty to multiple detected faces. Face size, pose and occlusion affect detection; incomplete jaw geometry is not forcibly reshaped.\n\nEdit when you feel like it\nOpen a photo in the in-app album to refine its look, grain, tint, vignette, brightness, crop, rotation and watermark. Save your settings or load a compatible HALD LUT.\n\nMade for your device\nCapture, editing and face detection run on the device. No account is required. Browse your photos, edit them, select multiple items, or use the system share sheet.\n\nAvailability of lenses, zoom levels, flash and Live depends on device capabilities and permissions. Live motion needs local post-processing. To share a complete Apple Live Photo, use a supported method in the system Photos app; other destinations may retain only the still image. Camera-inspired style names do not imply brand affiliation or exact reproduction.\n\nSupport: pan_xinglin@126.com",
+  "copyright": "2026 潘星霖",
+  "supportEmail": "pan_xinglin@126.com",
+  "supportURL": null,
+  "privacyPolicyURL": null
+}

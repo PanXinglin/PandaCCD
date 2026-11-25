@@ -1,0 +1,4 @@
+GPUPixel FaceReshapeFilter curveWarp
+Copyright 2021 PixPark. Apache License 2.0.
+Source: https://github.com/pixpark/gpupixel/blob/ef552bf8ce2d0d41fa9b979bfb5c7cf79374ca88/src/filter/face_reshape_filter.cc
+Modified by PandaCCD, 2026-11-03: Flutter GLSL, lip/chin contour controls, lower-face mask, smooth falloff, and reduced maximum warp. No VNN binaries, models, or commercial Facebetter SDK included.

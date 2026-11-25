@@ -1,0 +1,18 @@
+name: panda_media
+description: Local system media codecs and face landmarks for PandaCCD. No filter logic.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: '>=3.11.0 <4.0.0'
+  flutter: '>=3.41.0'
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.pandaccd.media
+        pluginClass: PandaMediaPlugin
+      ios:
+        pluginClass: PandaMediaPlugin
