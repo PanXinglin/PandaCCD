@@ -22,7 +22,7 @@
 - 本地相册、二次编辑、批量管理和系统分享
 - 横竖屏、折叠屏和多种画幅适配
 
-![PandaCCD 相机界面](docs/screenshots/android-camera.png)
+![PandaCCD App Store 相机界面示例](app-store/2026-11-12/screenshots/phone/01-camera.png)
 
 以下为开发与版本说明。
 
